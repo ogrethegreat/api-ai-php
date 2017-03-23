@@ -1,13 +1,13 @@
 {
-  "name": "iboldurev/api-ai-php",
+  "name": "ogrethegreat/api-ai-php",
   "description": "API.ai php sdk",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Ivan Boldyrev",
-      "email": "iboldurev@gmail.com",
-      "homepage": "https://github.com/iboldurev"
+      "name": "OgreTheGreat",
+      "email": "OgreTheGreat@gmail.com",
+      "homepage": "https://github.com/ogrethegreat"
     }
   ],
   "keywords": [

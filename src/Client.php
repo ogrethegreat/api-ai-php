@@ -17,7 +17,7 @@ class Client
     /**
      * API Base url
      */
-    const API_BASE_URI = 'https://api.api.ai/';
+    const API_BASE_URI = 'https://console.api.ai/';
 
     /**
      * API Version
